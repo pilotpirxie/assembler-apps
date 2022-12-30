@@ -1,5 +1,5 @@
 # assembler-apps
-Repository with tiny apps and games written in Turbo Assembler x86 16 bit 
+Repository with tiny apps and games written in assembly language for Turbo Assembler x86 16 bit 
 
 ### Contains:
 * flappy bird like game [video preview](https://www.youtube.com/watch?v=FSH_v4WhRZI),
